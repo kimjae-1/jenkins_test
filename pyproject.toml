@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "jenkins-test"
+version = "0.1.0"
+description = ""
+authors = ["kimjae-1 <kimjae1@g.skku.edu>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
